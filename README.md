@@ -1,1 +1,1 @@
-# lumina-creative
+# Lumina Creative
